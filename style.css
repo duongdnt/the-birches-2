@@ -122,7 +122,8 @@
     padding-top: 10%;
 }
 .picture-grid {
-    width: 80%;
+    width: 70%;
+    max-width: 1000px;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
