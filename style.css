@@ -80,6 +80,7 @@
 .button:hover {
     color:#A4A4A4;
     background-color:white;
+    cursor: pointer;
 }
 
 #location {
@@ -224,6 +225,7 @@
 .form button:hover {
     color:#A4A4A4;
     background-color:white;
+    cursor: pointer;
     
 }
 
